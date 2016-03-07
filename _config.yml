@@ -1,0 +1,28 @@
+name: Red Barn Construction
+favicon: null
+layout_spectrum: 0.8380263585131615
+typography_spectrum: 0.12905156332999468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.24698939244262874
+  lightness: 0.07885969686321914
+  saturation: 0.030536429025232792
+  rhythmicContrast: 0.9485176457092166
+purpose: []
